@@ -1,0 +1,380 @@
+ 
+RFP #: IT-26-07  
+ 
+Description:  Website Redesign Services  
+ Release Date:  February  19, 2026  
+ 
+Submittal Deadline:  March 12, 2026  
+ 
+Learn more About Us at sdhc.org  
+
+ 
+ 
+2            
+SUMMARY STATEMENT  
+The San Diego Housing Commission  (the Commission) is  soliciting  proposals from  businesses 
+(herein  after referred  to as Proposer(s)) to provide Website Redesign  Services . A full description 
+of the requested service requir ements i s set forth  in the  Scope of S ervices  section of  this Request  
+for Proposals (RFP).   
+ 
+A. RFP ATTACHMENTS  
+ 
+The following item s are attached as separate documents to this RFP:   
+1. Proposal Submittal Documents  
+2. Sample Contract  
+ 
+B. IMPORTANT INFO RMATION AND DUE DATES  
+ 
+Event s Information/Due Date s 
+Term of Contract  One year plus one one-year option.  
+Pre-Proposal Conference  2/26/2026  at 1:00 p.m. PT 
+Requests for Interpretation  5 business days prior to proposal due date  
+HUD Section 3 Regulations  Proposer must begin contacting the Commission’s  certified 
+Section 3 Business Concerns no later than  3/4/2026  
+Proposal Due  3/12/2026  at 3:00  p.m. PT 
+Interviews  3/26/2026 from 10:00 a.m. to 1:30 p.m. PT 
+ 
+C. PRE-PROPOSAL CONFERENCE  
+ 
+A non- mandatory pre -proposal conference will be held on 2/26/2026 at 1:00 p.m. Pacific Time  via 
+Microsoft Teams Meeting.  
+Microsoft Teams meeting   
+Join: https://teams.microsoft.com/meet/2177051302795?p=AgOqCUsUqXGH8WHvGO   
+Meeting ID: 217 705 130 279 5  
+Passcode: gv9gx2FF  
+ 
+Need help? | System reference  
+Dial in by phone   
++1 619-614-6098,,119199756# United States, Chula Vista  
+Find a local number   
+Phone conference ID: 119 199 756#  
+For organizers: Meeting options  | Reset dial -in PIN   
+______________________________________________________________________________  
+ 
+D. INTERVIEWS  
+ 
+The Commission reserves the right to conduct interviews with short -listed proposers. If interviews 
+are held, they will occur between 10:00 a.m. and 1:30 p.m. Pacific Time on March 26, 2026. 
+Proposer interviews will be held  virtually. Proposers must ensure availability during this time. 
+ 
+ 
+3            
+Failure to attend an interview, if requested, may result in the proposal being deemed 
+nonresponsive.  
+ E. REQUESTS FOR INTERPRETATION AND CLARIFI CATION 
+ 
+Requests for interpretation will be issued in the form of a written addendum to all prospective  
+proposers  and will become part of the RFP. No questions will be answered on the day of the proposal  
+due date . 
+ All requests for clarification of specifications or questions related to this RFP, if any, must  be 
+directed to Kareen Escobedo  at kareene@sdhc.org . Clarifications will only be made in writing by 
+the Contracting O fficer.  
+ F. EXCEPTIONS TO RFP AND/OR SAMPLE CONTRACT   
+ Proposer  is expected  to read and understand  all terms  and conditions  of this RFP and the sample  
+contract  included  in this invitation,  and by the act of submitting a proposal, agrees to their  terms 
+and conditions. If Proposer takes any exception(s) to any portion of the RFP and/or the s ample 
+contract, the specific portion to which exception(s) is/are taken must be specifically identified and 
+explained. Any such exceptions must be submitted by Proposer in their proposal as separate attachment entitled “Exceptions to RFP/Sample Contract.” Failure to specifically identify and submit in writing any exceptions to the RFP and/or s ample contract within the proposal will be 
+deemed a waiver of any objection. Any exceptions ma de to the RFP and/or s ample contract terms, 
+conditions, provisions, etc., will be considered during the proposal evaluation process.  
+  
+G. CONFLICT OF INTERTEST OR PENDING  LITIGATION  
+ Proposer  must , in their submitted  “Letter  of Introduction,”  describe any arrangements,  formal  or 
+informal,  that Proposer  has with any other  party  that might  interfere  with Proposer 's ability  to provide  
+independent  and unbiased advice and assistance under this RFP. Describe any litigation, 
+administrative proceedings, or investigations in which Proposer  is involved  or to which  it is subject  
+that might  have  an adverse effect  on its ability  to fulfill its engagement  under  this RFP  or that may 
+affect the Commission's perception of its suitability . 
+ H. PROPOSAL SUBMISSION 
+ 
+Proposals must  be submitted  via the PlanetBids portal no later than 3/12/2026 at 3:00 p.m. Pacific 
+Time.  Late responses  will not be accepted.  All r esponse s must  include completed  Proposal 
+Submittal Documents  and be clearly  identified  as “RFP IT -26-07 Website Redesign Services .” 
+ The Commission reserves the right to reject any or all proposal responses, waive any informality in the specifications or  solicitation  process,  or cancel  in whole  or in part this RFP if it is determined  
+by the Commission that it is in the best interest of the Commission to do so.  
+ 
+ 
+4            
+ 
+I. HUD SECTION 3 REGULATIONS   
+ 
+This project is subject to Housing and Urban Development ( HUD)  Section 3 regulations 
+(24CFR75). If Proposer  plans to award subcontracts for the performance or support of this project, 
+Proposer  must make a documented good faith effort to reach out  to and award the subcontracting 
+opportunities to Section 3 Business Concerns certified by the Commission.   At a minimum, supporting documentation shall include a log of calls or copies of emails —with 
+outcomes —to the Commission’s  certified Section 3 Business Concerns and notifying the 
+Commission’s  Section 3 Unit of employment opportunities for the Commission’s  certified Section 
+3 Workers. The registry of certified Section 3 Business Concerns and “Examples of Efforts to Award Contracting Opportunities” are available at:   
+https://www.sdhc.org/doing- business -with-us/section -3/ 
+ Proposer  must  begin contacting the certified Section 3 Business Concerns no later than 3/4/2026. 
+ 
+  
+ 
+ 
+5            
+SCOPE OF SERVICES  
+The main purpose  of the Commission ’s website is to provide a user -friendly and intuitive platform 
+that is easy to navigate, remove s barriers to public access, enhances  customer service, expand s 
+outreach opportunities, and promote s transparency  
+ 
+The proposed redesign will provide the following:  
+ 
+1. Full compliance with accessibility and language requirements, including but not limited to 
+Web Content Accessibility Guidelines (WCAG) Version 2.1, Level AA , translation through 
+Google Translate, and user -enabled accessibility adjustments.  
+ 
+2. Enhanced user experience 
+• Simplified menus for quick access to key information 
+• Easy navigation with clear pathways for all user types  
+• Mobile -responsive design optimized for all devices  
+• Intuitive layout that supports logical content flow  
+• Engaging interface with visually appealing elements  
+• Accurate, clear search functionality that recognizes queries and returns relevant 
+results  
+ 
+3. The website must support interactive forms that allow visitors to submit information 
+directly to the Commission. This functionality should include:  
+• Submission tracking to monitor and manage incoming data  
+• Email- based data delivery, ensuring submitted information is sent securely to 
+designated Commission email addresses  
+ 
+4. The solution should provide tools for Analytics and Reporting to:  
+• Track user behavior and engagement  
+• Generate reports for performance monitoring  
+• Support data -driven decision- making 
+• If analytics tools are not integrated into the solution, the website must support 
+industry- standard analytics platforms (e.g., Google Analytics, Adobe Analytics) for 
+seamless implementation.  
+ 
+5. The redesigned website must incorporate best practices for Comprehensive Search Engine Optimization (SEO) Strategy to maximize visibility and search performance. This includes:  
+• Technical optimization for site speed, indexing, and crawlability  
+• Keyword strategy aligned with the Commission’s goals and audience  
+• Performance monitoring to track and improve search rankings over time . 
+ 
+ 
+ 
+6            
+6. The website must implement industry -standard security measures and be deployed in a 
+secure, third -party hosted environment. Requirements include:  
+• SSL encryption for all data transmissions  
+• Secure form submissions and data storage  
+• Compliance with applicable privacy regulations  
+• Third -party hosting solution that ensures reliability, scalability, and security  
+ 
+7. Simplified administrative and management experience  
+• Content management  
+• Ease of use / full content access . 
+ 
+8. The new design will use the current Commission’s logo and color palette.  
+ 
+9. The proposed solution must include an optional integration of an AI -powered, agentic 
+digital assistant into the public website. The assistant should demonstrate autonomous, 
+goal-oriented behavior beyond basic prompt -response functionality, including the ability 
+to reason, plan, and execute multistep tasks to assist users effectively. Costs associated with 
+this optional integration must be itemized and presented separately in the proposal.  
+ 
+10. Future -Ready Design for AI Integration. Even if the optional AI -powered digital assistant 
+(Item 9) is not implemented immediately, the website design and architecture must lay the foundation for future integration. This includes:  
+• Flexible, modular architecture that supports adding advanced features without major redesign  
+• Scalable infrastructure to accommodate AI -driven functionality later  
+• API-ready design for seamless integration with future AI services  
+• Organize and optimize content for use with AI -powered, natural language digital 
+assistant  
+ 
+Deliverables and Approval Requirements  
+ 
+The Contractor shall provide the following specific deliverables as part of the phased approach. The Contractor must obtain written approval from the Commission at the conclusion of each phase before proceeding to the next phase.  
+ Phase 1: Discovery  
+• Review the existing hosting environment ( the Commission  will provide access ) to assess 
+current infrastructure and requirements . 
+• Conduct stakeholder meetings and departmental consultations to gather requirements . 
+ Phase 2: Design  
+• Work with the Commission’s teams and departments to design the new website . 
+ 
+ 
+7            
+• Develop a pattern library with code for consistent design standards . 
+• Create multiple custom page templates as needed . 
+• Ensure the design is user -friendly and intuitive, allowing quick access to information and 
+services . 
+• Incorporate a comprehensive SEO strategy, including technical optimization, keyword 
+planning, and performance monitoring. 
+ 
+Phase 3: Build  
+• Address all CMS requirements and website selection criteria . 
+• Move the current site to a secure, third -party hosted facility as -is, if hosting changes are 
+required . 
+• Migrate existing data to the new site . 
+• Implement accessibility compliance (WCAG 2.1 AA) . 
+• Integrate security measures and confirm compatibility with industry -standard analytics 
+tools . 
+ Phase 4: Site Launch  
+• Finalize testing and quality assurance . 
+• Deploy the new website to the production environment . 
+• Validate functionality and performance post -launch . 
+ Phase 5: Project Completion  
+• Provide documentation and training for the Commission’s staff . 
+• Deliver final project report and confirm all contractual deliverables . 
+• Obtain the Commissions’  formal acceptance.  
+ 
+ 
+8 
+EVALUATION CRITERIA 
+After the proposal submission deadline , all responses  will be reviewed  by an Evaluation  Selection  
+Committee. The Committee will score and rank  the proposal s based on the  criteria  outlined below. 
+Proposers are expected to ensure that their submittal documents clearly address each criterion and 
+align with the scope of services and contract deliverables as descri bed in this RFP . The Committee 
+will recommend , in order of preference , the firms deemed to be the most responsible , responsive, 
+and advantageous to the Commission . 
+ 
+CRITERIA  POINTS  
+ I. Cost Proposal/Compensation  
+1. Explanation for proposed costs 
+2. Reasonableness of proposed costs 
+3. Maintenance and support costs 
+  25 
+ II. Strategic/Business Criteria  
+1. Alignment with the Commissions mission and goals 
+ 10 
+ III. Capability and Functionality  
+1. Ensure accessibility compliance (WCAG 2.1 AA) and language support . 
+2. Enhance user experience with intuitive navigation and mobile 
+optimization . 
+3. Provide robust forms and submission functionality. 
+4. Enable analytics and reporting. 
+5. Implement a comprehensive SEO strategy . 
+6. Maintain strong security and privacy. 
+7. Support third-party hosting. 
+8. Offer content management capabilities . 
+9. Integrate an AI -powered, agentic digital assistant . 
+10. Design for future-ready AI integration. 
+ 30 
+ IV. Vendor Considerations  
+1. Experience with government/public sector websites 
+2. Accessibility and SEO expertise  
+3. Customer retention and references  
+4. Experience with AI Integration 
+ 20 
+ 
+ 
+9 
+V. Assurances of Non discrimination  
+ 
+ Proposer shall demonstrate its compliance with federal and state (as applicable) 
+nondiscrimination regulations and policies. Provide a narrative detailing 
+Proposer’s knowledge, experience and demonstrated commitment to refrain 
+from unfair treatment and proactive inclusion of all protected classes as outlined 
+in federal regulations both from an employment and subcontracting perspective.   
+  
+ Include specific examples of proactive activities and initiatives , which may 
+include but are not limited to:  
+• Knowledge in the principles and practices of nondiscrimination 
+regulation requirements.  
+• Recruitment/workplace practices, engagement and outreach efforts to 
+ensure Proposer is not unlawfully discriminating in its recruitment, 
+promotion and other related Human Resources activities.  
+• Outreach and engagement efforts to ensure Proposer is not unlawfully 
+discriminating in its subcontracting opportunities.  
+  15 
+ 
+Total Possible Points  100 Points  
+  
+ 
+ 
+10 
+INSTRUCTIONS TO PROPOSERS  
+ 
+A. REFERENCES  
+All references  to Housing Authority/Agency (HA),  Public  Housing Agency  (PHA),  and Indian  
+Housing Agency (IHA) in the following document  (Form 5369- B) should be read to mean the San 
+Diego Housing Commission.    
+Instructions to 
+Proposer s Non-
+ConstructionU.S. Department  of Housing and 
+Urban Development  
+Office  of Public  and Indian Housing  - 03291 - 
+ 
+ 
+ 
+1. Preparation  of Offers  
+(a) Proposer s are expected to examine the statement of work, the 
+proposed contract  terms  and conditions,  and all instructions.  Failure  to do 
+so will be at the Proposer 's risk.  
+(b) Each Proposer  shall furnish the information required by the 
+solicitation. The Proposer  shall sign the offer and print or type its name 
+on the cover sheet and each continuation sheet on which it makes an entry. 
+Erasures or other changes must be initialed by the person signing the offer. 
+Offers signed by an agent shall be accompanied by evide nce of that agent's 
+authority, unless that evidence has been previously furnished to the HA.  
+(c) Offers  for services  other  than those  specified  will not be considered.  
+2. Submission of Offers  
+(a) Offers  and modifications  thereof  shall  be submitted  in sealed  
+envelopes  or packages (1) addressed to the office specified in the 
+solicitation, and (2) showing the time specified for receipt, the solicitation 
+number, and the name and address of the Proposer . 
+(b) Telegraphic offers will not be considered unless authorized by 
+the solicitation;  however,  offers  may be modified  by written  or 
+telegraphic notice.  
+(c) Facsimile offers,  modifications  or withdrawals  will not be 
+considered unless authorized by the solicitation.  
+3. Amendments to Solicitations  
+(a) If this solicitation  is amended,  then all terms  and conditions  which  are 
+not modified remain unchanged.  
+(b) Proposer s shall  acknowledge  receipt  of any amendments  to this 
+solicitation by 
+(1) Signing  and returning the amendment;  
+(2) identifying  the amendment  number  and date in the space provided  
+for this purpose on the form for submitting an offer,  
+(3) letter  or telegram,  or 
+(4) facsimile, if facsimile offers are authorized in the solicitation. The 
+HA/HUD must  receive the acknowledgment  by the time specified  
+for receipt of offers.  
+4. Explanation  to Prospective Proposers  
+Any prospective Proposer  desiring an explanation or interpretation of the 
+solicitation, statement of work, etc., must request it in writing soon enough  
+to allow a reply to reach all prospective offers before the submission of 
+their offers. Oral explanations or instructions given before the award of 
+the contract will not be binding. Any information given to a prospective 
+Proposer  concerning a solicitation will be furnished promptly to all other prospective offers  as an amendment of the solicitation, if  that information 
+is necessary  in submitting offers or if the lack of it would be prejudicial to 
+any other prospective Proposer s. 
+5. Responsibility  of Prospective Contractor  
+(a) The HA shall award a contract only to a responsible prospective 
+contractor  who is able to perform  successfully  under  the terms  and 
+conditions of the proposed contract. To be determined responsible, a 
+prospective contractor must -  
+(1) Have adequate financial  resources  to perform  the contract,  or the 
+ability to obtain them; 
+(2) Have a satisfactory  performance record;  
+(3) Have a satisfactory  record  of integrity  and business ethics;  
+(4) Have a satisfactory  record  of compliance with public  policy  (e.g.,  
+Equal  Employment  Opportunity);  and 
+(5) Not have been suspended, debarred, or otherwise determined to be 
+ineligible for award of contracts by the Department of Housing  and 
+Urban Development or any other agency of the U.S. Government. 
+Current lists of ineligible contractors are available  for inspection at 
+the HA/HUD.  
+(b) Before an offer is considered for award, the Proposer  may be requested 
+by the HA to submit a statement or other documentation regarding any of 
+the foregoing requirements. Failure by the Proposer  to provide such 
+additional information may  render the Proposer  ineligible for award.  
+6. Late  Submissions,  Modifications,  and Withdrawal  of Offers  
+(a) Any offer received at the place designated in the solicitation after the 
+exact  time specified  for receipt  will not be considered  unless  it is received 
+before award is made and it -  
+(1) Was sent by registered or certified mail not later than the fifth 
+calendar  day before  the date specified  for receipt  of offers  (e.g., an 
+offer submitted in response to a solicitation requiring receipt of 
+offers by the 20th of the month must have been mailed by the 
+15th);  
+(2) Was sent by mail,  or if authorized  by the solicitation  was sent by 
+telegram or via facsimile,  and it is determined by the HA/ HUD 
+that the late receipt was due solely to mishandling by the 
+HA/HUD after receipt at the HA;  
+(3) Was sent by U.S. Postal Service Express Mail Next Day Service -  
+Post Office to Addressee, not later than 5:00 p.m. at the place of 
+mailing two working days prior to the date specified for receipt of 
+proposals. The term "working days" excludes weekends and U.S. 
+Federal  holidays;  or 
+(4) Is the only offer  received.  
+(b) Any modification of an offer, except a modification resulting from the 
